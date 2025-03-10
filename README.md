@@ -15,6 +15,7 @@ Q2. Derive the IAM policy (i.e. JSON)?
 {
   "Version": "2012-10-17",
   "Statement": [
+  
   {
   
       "Effect": "Allow",
